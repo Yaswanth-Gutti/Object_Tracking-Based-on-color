@@ -87,7 +87,7 @@ class App:
         self.screenshot_timer_lbl = tk.Label(text="Timer", fg='Red')
         self.screenshot_timer_lbl.grid(row=8, column=1)
 
-########################################################################################################## Images
+########################################################################################################### Images
         # images
         self.hsv_img_lbl = tk.Label(text="HSV", image=None)
         self.hsv_img_lbl.grid(row=0, column=0)
